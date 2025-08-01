@@ -1,14 +1,16 @@
 # Pokemon-Data-Analysis
 This project is a SQL-based exploration of Pokémon stats and traits using a dataset modeled after the official Pokémon games. It features a series of SQL queries designed to answer insightful questions about Pokémon strengths, weaknesses, types, generations, capture difficulty, and more. The goal of this project is to improve SQL proficiency by working with a real-world themed dataset and performing data-driven analysis similar to what a game designer or analyst might explore.
 
-🔧 Tools Used
+## 🔧 Tools Used
+
 Microsoft SQL Server Management Studio (SSMS)
 
 T-SQL
 
 Pokémon dataset from Kaggle: Pokémon Dataset (Gen 1–9)
 
-📊 Key Features
+## 📊 Key Features
+
 Standardized data types and handled missing values in type columns
 
 Identified the top 10 Pokémon by total base stats
@@ -31,7 +33,8 @@ Identified Legendary or Mythical Pokémon with Flying type (either primary or se
 
 Filtered Pokémon with over 100 Speed that are not Legendary or Mythical
 
-▶️ How to Run This Project
+## ▶️ How to Run This Project
+
 Open PokemonDataAnalysis.sql in SQL Server Management Studio (SSMS)
 
 Download the dataset from Kaggle and import it into your SQL Server instance:
@@ -44,7 +47,8 @@ Base_Stats, HP, Attack, Defense, Sp_Attack, Sp_Defense, Speed, Type_1, Type_2, I
 
 Run each query section by section. Each block is labeled and commented.
 
-📚 Learning Takeaways
+## 📚 Learning Takeaways
+
 Through this project, I gained hands-on experience with:
 
 Data cleaning techniques in SQL (handling nulls, blank fields, datatype normalization)
