@@ -7,7 +7,7 @@ Microsoft SQL Server Management Studio (SSMS)
 
 T-SQL
 
-Pokémon dataset from Kaggle: Pokémon Dataset (Gen 1–9)
+Pokémon dataset from Kaggle: Pokémon Dataset (Gen 1–9) (https://www.kaggle.com/datasets/jgassdfe/pokemon-dataset-of-gen-1-gen-9?resource=download)
 
 ## 📊 Key Features
 
